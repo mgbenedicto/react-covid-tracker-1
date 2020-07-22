@@ -15,9 +15,6 @@ function Chart({ data: { confirmed, recovered, deaths }, country }) {
         fetchAPI();
     }, []);
 
-    console.log('Chart-Daily Data--------------');
-    console.log(dailyData);
-
     const lineChart = dailyData.length ? (
         <Line
             data={{
