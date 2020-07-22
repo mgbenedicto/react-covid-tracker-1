@@ -1,0 +1,10 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.formControl {
+    width: 30%;
+    margin-bottom: 30px !important;
+}
