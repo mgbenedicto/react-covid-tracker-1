@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mgbenedicto/react-covid-tracker-1/static/css/main.980990e4.chunk.css",
+    "main.js": "/mgbenedicto/react-covid-tracker-1/static/js/main.20da3a32.chunk.js",
+    "main.js.map": "/mgbenedicto/react-covid-tracker-1/static/js/main.20da3a32.chunk.js.map",
+    "runtime-main.js": "/mgbenedicto/react-covid-tracker-1/static/js/runtime-main.19b4052c.js",
+    "runtime-main.js.map": "/mgbenedicto/react-covid-tracker-1/static/js/runtime-main.19b4052c.js.map",
+    "static/js/2.42e0262a.chunk.js": "/mgbenedicto/react-covid-tracker-1/static/js/2.42e0262a.chunk.js",
+    "static/js/2.42e0262a.chunk.js.map": "/mgbenedicto/react-covid-tracker-1/static/js/2.42e0262a.chunk.js.map",
+    "index.html": "/mgbenedicto/react-covid-tracker-1/index.html",
+    "precache-manifest.e6475095d9136f9ed45505541fa67211.js": "/mgbenedicto/react-covid-tracker-1/precache-manifest.e6475095d9136f9ed45505541fa67211.js",
+    "service-worker.js": "/mgbenedicto/react-covid-tracker-1/service-worker.js",
+    "static/css/main.980990e4.chunk.css.map": "/mgbenedicto/react-covid-tracker-1/static/css/main.980990e4.chunk.css.map",
+    "static/js/2.42e0262a.chunk.js.LICENSE.txt": "/mgbenedicto/react-covid-tracker-1/static/js/2.42e0262a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b4052c.js",
+    "static/js/2.42e0262a.chunk.js",
+    "static/css/main.980990e4.chunk.css",
+    "static/js/main.20da3a32.chunk.js"
+  ]
+}
